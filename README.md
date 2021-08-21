@@ -1,5 +1,4 @@
-Forecasting Sales of Walmart Department Stores
-============================================
+# Forecasting Sales of Walmart Department Stores
 
 Introduction
 ============
