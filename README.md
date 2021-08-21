@@ -3,7 +3,7 @@
 Introduction
 ============
 
-In this challenge we need to model retail data. More specifically, we
+In this [Kaggle competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) we need to model retail data. More specifically, we
 have to project sales for every department of 45 Walmart stores, located
 in different regions.
 
